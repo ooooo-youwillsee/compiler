@@ -2,3 +2,4 @@ rootProject.name = 'compiler'
 
 
 include 'craft-ast'
+include 'play-script-java'
