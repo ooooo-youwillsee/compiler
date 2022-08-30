@@ -1,5 +1,8 @@
 package com.ooooo;
 
+import com.ooooo.definition.ASTNode;
+import com.ooooo.definition.ASTNodeType;
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.HashMap;

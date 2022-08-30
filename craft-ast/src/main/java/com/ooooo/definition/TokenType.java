@@ -1,4 +1,4 @@
-package com.ooooo;
+package com.ooooo.definition;
 
 /**
  * Token的类型

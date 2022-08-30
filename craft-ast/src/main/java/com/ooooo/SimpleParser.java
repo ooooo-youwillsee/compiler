@@ -1,5 +1,11 @@
 package com.ooooo;
 
+import com.ooooo.definition.ASTNode;
+import com.ooooo.definition.ASTNodeType;
+import com.ooooo.definition.Token;
+import com.ooooo.definition.TokenReader;
+import com.ooooo.definition.TokenType;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;

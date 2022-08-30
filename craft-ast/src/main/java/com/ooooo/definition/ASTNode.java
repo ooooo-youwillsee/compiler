@@ -1,4 +1,4 @@
-package com.ooooo;
+package com.ooooo.definition;
 
 import java.util.List;
 

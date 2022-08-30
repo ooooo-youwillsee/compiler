@@ -1,6 +1,10 @@
 package com.ooooo;
 
 
+import com.ooooo.definition.Token;
+import com.ooooo.definition.TokenReader;
+import com.ooooo.definition.TokenType;
+
 import java.io.CharArrayReader;
 import java.io.IOException;
 import java.util.ArrayList;

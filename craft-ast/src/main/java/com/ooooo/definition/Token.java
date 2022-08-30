@@ -1,4 +1,4 @@
-package com.ooooo;
+package com.ooooo.definition;
 
 /**
  * 一个简单的Token。

@@ -1,4 +1,4 @@
-package com.ooooo;
+package com.ooooo.definition;
 
 /**
  * AST节点的类型。

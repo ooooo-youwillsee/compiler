@@ -1,4 +1,4 @@
-package com.ooooo;
+package com.ooooo.definition;
 
 /**
  * 一个Token流。由Lexer生成。Parser可以从中获取Token。
